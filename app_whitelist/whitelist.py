@@ -3,7 +3,7 @@ from tkinter import filedialog
 import os
 from tkinter import messagebox
 from tkinter import ttk
-
+# Start
 def add_to_whitelist():
     name = entry_name.get()
     path = entry_path.get()
